@@ -1,0 +1,2 @@
+Make sure all buldozer dependencies are installed and your locale is set up properly.
+To compile, go to 'build' and run 'buildozer build <platform> <type>' Example: 'buildozer build android debug'
